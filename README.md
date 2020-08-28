@@ -5,9 +5,9 @@ we can run ML algorithms, Train, import Models, update the model easily using Te
 
 this is a Classification project on IrisDataset which i performed on Tensorflow.js
 
-Requirements
-Webserver for chrome
-Html editor ( Brackets)
-chrome browser
+Requirements:
+1.webserver for chrome
+2.Html editor ( Brackets)
+3.chrome browser
 the beauty of the Tensorflow.js is we can work on chrome while the model is running in the background (asynchronous)
 
